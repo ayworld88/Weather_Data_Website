@@ -1,2 +1,5 @@
 body { background:lightgray !important;}
 div { background:white !important;}
+.navbar {
+    color: orangered
+}
